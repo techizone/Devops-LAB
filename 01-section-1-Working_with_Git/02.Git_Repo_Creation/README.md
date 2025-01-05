@@ -23,14 +23,14 @@ We need to follow these steps for Repo
 Step:1 ==> Init your Local Directory as GIT Local Repo 
 Step:2 ==> Add your Local git Repo to Remote git Repo 
 ```
-#### Step:1 ==> Init your Local Directory as GIT Local Repo 
+### Step:1 ==> Init your Local Directory as GIT Local Repo 
 ```
 cd /home/user/OLA-India-DEV  
 git init .
 ```
 Now in "OLA-India-DEV" Directory you have .git Directory. So "OLA-India-DEV" Directory act as Git Repo now 
 
-#### Step:2 ==> Add your Local git Repo to Remote git Repo 
+### Step:2 ==> Add your Local git Repo to Remote git Repo 
 
 To Link your Local repository to Your Remote Repository 
 ```
